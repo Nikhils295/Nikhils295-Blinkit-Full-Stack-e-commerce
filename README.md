@@ -48,7 +48,7 @@ Before running this project, make sure you have the following installed:
 
 ### 1. Clone the Repository
 bash
-git clone https://github.com/AgrimChauhan09/Blinkit-Full-stack-E-Commerce.git
+git clone https://github.com/Nikhils295/Blinkit-Full-stack-E-Commerce.git
 cd Blinkit-Full-stack-E-Commerce
 
 
@@ -174,7 +174,7 @@ This project is for educational purposes. Please respect the original Blinkit br
 
 ## Author
 
-Agrim Chauhan
+Nikhil Saxena
 - GitHub: @Nikhils295
 
 ## Acknowledgments
