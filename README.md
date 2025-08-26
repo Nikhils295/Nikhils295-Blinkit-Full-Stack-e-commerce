@@ -1,6 +1,3 @@
-# Nikhils295-Blinkit-Full-Stack-e-commerce
-
-
 # Binkeyit Full Stack MERN App
 
 A complete clone of the popular quick-commerce platform Blinkit, built with modern web technologies. This full-stack application replicates the core functionality of instant grocery delivery with a clean, responsive user interface.
